@@ -1,0 +1,8 @@
+treamlit
+tensorflow
+keras
+numpy
+gtts
+opencv-python
+mediapipe
+argparse
