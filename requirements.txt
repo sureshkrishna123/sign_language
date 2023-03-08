@@ -6,3 +6,4 @@ gtts
 opencv-python
 mediapipe
 argparse
+opencv-python-headless
