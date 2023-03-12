@@ -35,7 +35,7 @@ import itertools
 from collections import Counter
 from collections import deque
 
-#import cv2
+import cv2
 import numpy as np
 import mediapipe as mp
 
